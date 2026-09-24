@@ -1,3 +1,4 @@
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:92003B&height=200&section=header&text=Ali%20Asghar%20Sajjadi&fontSize=50&fontColor=ffffff&animation=twinkling)
 # 👋 سلام! من علی اصغر سجادی هستم
 
 ### 🎨 طراح و توسعه‌دهنده وب با وردپرس
